@@ -1,6 +1,6 @@
 export GITACCOUNT=xuegaotian
 
-export MYCLUSTER=PC8b4tkKANl2ZMj4kzo4tZcg3MqWJc57FsBsBm2QMG14
+export MYCLUSTER=tektonknativebeijing35
 export KUBECONFIG=
 
 export NAMESPACE=xuegaotian
